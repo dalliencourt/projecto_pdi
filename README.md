@@ -11,7 +11,7 @@ Procesamiento Digital de Imágenes.
 |:--- |---:
 |Y  |Desarrollo
 |Fernando Valencia|Desarrollo
-|E |Tester
+|Erick |Tester
 |Isaac Herrera |Mantenedor
 
 ---
