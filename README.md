@@ -9,7 +9,7 @@ Procesamiento Digital de Imágenes.
 
 |Nombre |Rol
 |:--- |---:
-|Y  |Desarrollo
+|Yazmin Armendariz|Desarrollo
 |Fernando Valencia|Desarrollo
 |Erick |Tester
 |Isaac Herrera |Mantenedor
